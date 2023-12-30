@@ -7,7 +7,7 @@ Loophole installed and logged in locally via `loophole account login` to snag th
 
 
 # Usage
-Make sure you pick the image with the correct platform for your host
+Make sure you pick the image with the correct platform for your host!
 
 _docker-compose.yml_
 ```
