@@ -1,6 +1,6 @@
 # Loophole for Docker
 
-This repository enables you to run Loophole using Docker, or more effectively with Docker Compose, allowing for the automatic exposure of a service when executing the `docker-compose up` command.
+This repository enables you to run [Loophole](https://loophole.cloud/) using Docker, or more effectively with Docker Compose, allowing for the automatic exposure of a service when executing the `docker-compose up` command.
 
 # Prerequisities
 Loophole installed and logged in locally via `loophole account login` to snag the access token off of the host.
